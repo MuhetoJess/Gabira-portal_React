@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "donorId": "d1",
+    "donorName": "Alice Uwase",
+    "charityId": "c1",
+    "charityName": "Hope for Children Rwanda",
+    "amount": 25000,
+    "date": "2026-08-01",
+    "status": "Completed",
+    "note": "For school supplies"
+  },
+  {
+    "id": 2,
+    "donorId": "d1",
+    "donorName": "Alice Uwase",
+    "charityId": "c2",
+    "charityName": "Clean Water Initiative",
+    "amount": 15000,
+    "date": "2026-08-20",
+    "status": "Completed",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "donorId": "d2",
+    "donorName": "Jean Mugisha",
+    "charityId": "c1",
+    "charityName": "Hope for Children Rwanda",
+    "amount": 50000,
+    "date": "2026-09-05",
+    "status": "Pending",
+    "note": "Monthly pledge"
+  },
+  {
+    "id": 4,
+    "donorId": "d2",
+    "donorName": "Jean Mugisha",
+    "charityId": "c2",
+    "charityName": "Clean Water Initiative",
+    "amount": 10000,
+    "date": "2026-09-10",
+    "status": "Completed",
+    "note": ""
+  },
+  {
+    "id": 5,
+    "donorId": "d2",
+    "donorName": "Jean Mugisha",
+    "charityId": "c1",
+    "charityName": "Hope for Children Rwanda",
+    "amount": 20000,
+    "date": "2026-09-15",
+    "status": "Pending",
+    "note": "Back to school drive"
+  }
+]

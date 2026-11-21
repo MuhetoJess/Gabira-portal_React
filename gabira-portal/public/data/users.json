@@ -1,0 +1,40 @@
+{
+  "donors": [
+    {
+      "id": "d1",
+      "name": "Alice Uwase",
+      "email": "alice@example.com",
+      "password": "Alice123",
+      "phone": "0788111222",
+      "joined": "2026-01-12"
+    },
+    {
+      "id": "d2",
+      "name": "Jean Mugisha",
+      "email": "jean@example.com",
+      "password": "Jean123",
+      "phone": "0788333444",
+      "joined": "2026-02-03"
+    }
+  ],
+  "charities": [
+    {
+      "id": "c1",
+      "name": "Hope for Children Rwanda",
+      "regNumber": "NGO-2019-004",
+      "email": "hope@example.org",
+      "password": "Hope123",
+      "category": "Child Welfare",
+      "joined": "2025-11-20"
+    },
+    {
+      "id": "c2",
+      "name": "Clean Water Initiative",
+      "regNumber": "NGO-2020-017",
+      "email": "water@example.org",
+      "password": "Water123",
+      "category": "Environment",
+      "joined": "2025-08-14"
+    }
+  ]
+}
